@@ -4,7 +4,7 @@
   "description": "Create King of the hill API. SInce one does not exist.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "devStart": " nodemon script.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/arn-foto/KingOfTheHill-API/issues"
   },
-  "homepage": "https://github.com/arn-foto/KingOfTheHill-API#readme"
+  "homepage": "https://github.com/arn-foto/KingOfTheHill-API#readme",
+  "dependencies": {
+    "mongoose": "^6.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
