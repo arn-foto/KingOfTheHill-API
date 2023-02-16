@@ -1,7 +1,7 @@
 # KingOfTheHill-API
 
 #Goal
-Create King of the hill API. SInce one does not exist. 
+Create King of the hill API. SInce one does not exist. --In Progress
 
 #Technologies used:
 - JavaScript
